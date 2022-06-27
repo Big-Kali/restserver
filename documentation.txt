@@ -1,0 +1,4 @@
+we are gonna talk about cors
+what is cors?
+cors  donst allow some customer to enter in your website
+it is like authentication and allow me protection your website
